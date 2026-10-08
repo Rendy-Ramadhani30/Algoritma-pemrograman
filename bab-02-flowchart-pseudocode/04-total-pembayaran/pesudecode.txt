@@ -1,0 +1,22 @@
+ALGORITMA Total_Pembayaran
+
+DEKLARASI:
+    harga_satuan  : real
+    jumlah_barang : integer
+    biaya_layanan : real
+    subtotal      : real
+    total         : real
+
+
+    // Input data dari pengguna
+    read(harga_satuan)
+    read(jumlah_barang)
+    read(biaya_layanan)
+
+    // Proses perhitungan
+    subtotal <- harga_satuan * jumlah_barang
+    total    <- subtotal + biaya_layanan
+
+    // Output hasil perhitungan
+    write(subtotal)
+    write(total)
