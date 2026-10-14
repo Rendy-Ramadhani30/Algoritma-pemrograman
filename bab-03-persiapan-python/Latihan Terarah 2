@@ -1,0 +1,11 @@
+nama = "Rendy"
+usia = "19"
+kota = "Boyolali"
+tinggi_badan = "1.64"
+status_aktif = "Pelajar"
+
+print(f"nama: {nama}")
+print(f"usia: {usia}")
+print(f"kota: {kota}")
+print(f"tinggi badan: {tinggi_badan}")
+print(f"status aktif: {status_aktif}")

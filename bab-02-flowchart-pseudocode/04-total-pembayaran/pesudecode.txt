@@ -1,4 +1,4 @@
-ALGORITMA Total_Pembayaran
+`ALGORITMA Total_Pembayaran
 
 DEKLARASI:
     harga_satuan  : real
